@@ -1,0 +1,20 @@
+.gridlayout {
+    display: grid;
+    grid-template-areas: 
+    "headerimg" "nav" "nav"
+    "img" "content" "content"
+    "footer" "footer" "footer";
+
+}
+h1 {
+    grid-area: content;
+}
+p {
+    grid-area: content;
+}
+nav {
+    grid-area: nav;
+}
+img {
+    grid-area: img;
+}

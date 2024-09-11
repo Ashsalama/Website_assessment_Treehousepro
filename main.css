@@ -1,0 +1,133 @@
+    @import url('https://fonts.googleapis.com/css2?family=Mingzat&family=Oswald:wght@200..700&display=swap');
+
+body {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+p {
+    color: #000;
+    margin: auto;
+    font-size: 24px;
+    font-family: "Oswald", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+a {
+    display: inline-block;
+}
+
+.headerimg {
+    float: left;
+    height: 120px;
+    width: auto;
+    background-color: white;
+}
+
+nav {
+    background-color: #006400;
+    color: #EDB200;
+    font-size: 36px;
+    padding: 0 15px;
+    font-family: "Oswald", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.navdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo a {
+    font-size: 24px;
+    font-weight: 600;
+    color: #EDB200;
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: #006400; 
+    height: 120px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    font-family: "Oswald", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+li a {
+    color: #EDB200;
+    font-size: 36px;
+    margin-right: 25px;
+    text-decoration: none; 
+    font-family: "Oswald", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+li a:hover {
+    color: #006400;
+    background-color: #EDB200;
+    padding: 16px;
+}
+
+.sam_img {
+    max-height: 572px; 
+    width: auto;
+    margin-left: 100px;
+    margin-top: 90px;
+    float: left;
+}
+
+footer {
+    text-align: center;
+    margin-top: 34px;
+    background-color: #006400;
+    color: #EDB200;
+    height: 100px;
+    font-size: 32px;
+    font-family: "Oswald", system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.heroimg {
+    width: 530px;
+    height: 275px;
+    margin-right: 100px;
+    margin-top: 90px;
+    float: right;
+}
+.process_paragraph {
+    margin-left: 290px;
+
+}
+.home_paragraph {
+    margin-top: 50px;
+    margin-left: 990px;
+}
+.footer_proccess {
+    margin-top: -105px;
+}
+.footer_treehouse {
+    margin-top: 1px;
+}
+.treehouse_header {
+    margin-left: -1710px;
+    font-weight: bold;
+}
