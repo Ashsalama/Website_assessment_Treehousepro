@@ -13,7 +13,6 @@ h1 {
 
 p {
     color: #000;
-    margin: auto;
     font-size: 24px;
     font-family: "Oswald", system-ui;
     font-optical-sizing: auto;
@@ -96,7 +95,7 @@ li a:hover {
 
 footer {
     text-align: center;
-    margin-top: 34px;
+    margin-top: 230px;
     background-color: #006400;
     color: #EDB200;
     height: 100px;
@@ -130,4 +129,32 @@ footer {
 .treehouse_header {
     margin-left: -1710px;
     font-weight: bold;
+}
+.p_treehouse {
+    margin-left: 73px;
+    width: 600px;
+}
+.rustic_treehouse {
+    margin-top: -1669px;
+    margin-left: 1200px;
+    height: 300px;
+    width: 530px;
+}
+.fantasy_treehouse {
+    margin-top: -1269px;
+    margin-left: 1200px;
+    height: 300px;
+    width: 530px;
+}
+.grown_up_treehouse {
+    margin-top: -869px;
+    margin-left: 1200px;
+    height: 300px;
+    width: 530px;
+}
+.modern_treehouse {
+    margin-top: -469px;
+    margin-left: 1200px;
+    height: 300px;
+    width: 530px;
 }
