@@ -137,6 +137,7 @@ footer {
 .p_treehouse {
     margin-left: 73px;
     width: 600px;
+    margin-top: 110px;
 }
 .rustic_treehouse {
     margin-top: -1669px;
@@ -161,4 +162,9 @@ footer {
     margin-left: 1200px;
     height: 300px;
     width: 530px;
+}
+.p_growntreehouse {
+        margin-left: 73px;
+        width: 600px;
+        margin-top: -25px;
 }
