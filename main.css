@@ -3,14 +3,12 @@
 body {
     background-color: white;
 }
-
 h1 {
     color: black;
     text-align: center;
     font-weight: bold;
     font-size: 32px;
 }
-
 p {
     color: #000;
     font-size: 24px;
@@ -19,17 +17,12 @@ p {
     font-weight: weight;
     font-style: normal;
 }
+
+
+
 a {
     display: inline-block;
 }
-
-.headerimg {
-    float: left;
-    height: 120px;
-    width: auto;
-    background-color: white;
-}
-
 nav {
     background-color: #3b6e0a;
     color: #EDB200;
@@ -41,26 +34,6 @@ nav {
     font-style: normal;
     margin-left: 456px;
 }
-
-.navdiv {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.logo a {
-    font-size: 24px;
-    font-weight: 600;
-    color: #EDB200;
-    text-decoration: none;
-}
-
-.navbar {
-    background-color: #3b6e0a; 
-    height: 120px;
-    border-radius: 20px;
-}
-
 li {
     list-style: none;
     display: inline-block;
@@ -69,7 +42,6 @@ li {
     font-weight: weight;
     font-style: normal;
 }
-
 li a {
     color: #EDB200;
     font-size: 36px;
@@ -81,21 +53,11 @@ li a {
     font-style: normal;
     border-radius: 20px;
 }
-
 li a:hover {
     color: #3b6e0a;
     background-color: #EDB200;
     padding: 16px;
 }
-
-.sam_img {
-    max-height: 572px; 
-    width: auto;
-    margin-left: 100px;
-    margin-top: 90px;
-    float: left;
-}
-
 footer {
     text-align: center;
     margin-top: 230px;
@@ -109,6 +71,9 @@ footer {
     font-style: normal;
     border-radius: 20px;
 }
+
+
+
 .heroimg {
     width: 530px;
     height: 275px;
@@ -168,4 +133,33 @@ footer {
     width: 600px;
     margin-top: 110px;
     margin-top: 34px;
+}
+.headerimg {
+    float: left;
+    height: 120px;
+    width: auto;
+    background-color: white;
+}
+.sam_img {
+    max-height: 572px; 
+    width: auto;
+    margin-left: 100px;
+    margin-top: 90px;
+    float: left;
+}
+.logo a {
+    font-size: 24px;
+    font-weight: 600;
+    color: #EDB200;
+    text-decoration: none;
+}
+.navbar {
+    background-color: #3b6e0a; 
+    height: 120px;
+    border-radius: 20px;
+}
+.navdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
