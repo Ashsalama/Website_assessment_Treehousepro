@@ -3,7 +3,7 @@ body {
     grid-template-areas: 
     "nav" "nav" "nav" "nav"
     "content" "content" "content" "content"
-    "img" "img" "img" "img";
+    "footer" "footer" "footer" "footer";
 
 }
 
