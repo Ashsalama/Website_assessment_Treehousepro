@@ -81,6 +81,7 @@ footer {
     margin-right: 100px;
     margin-top: 90px;
     float: right;
+    border-radius: 20px;
 }
 .process_paragraph {
     margin-left: 290px;
@@ -110,24 +111,28 @@ footer {
     margin-left: 1200px;
     height: 300px;
     width: 530px;
+    border-radius: 20px;
 }
 .fantasy_treehouse {
     margin-top: -1269px;
     margin-left: 1200px;
     height: 300px;
     width: 530px;
+    border-radius: 20px;
 }
 .grown_up_treehouse {
     margin-top: -869px;
     margin-left: 1200px;
     height: 300px;
     width: 530px;
+    border-radius: 20px;
 }
 .modern_treehouse {
     margin-top: -469px;
     margin-left: 1200px;
     height: 300px;
     width: 530px;
+    border-radius: 20px;
 }
 .p_growntreehouse {
     margin-left: 73px;
