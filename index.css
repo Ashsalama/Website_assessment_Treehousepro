@@ -52,6 +52,7 @@ li a {
     font-weight: weight;
     font-style: normal;
     border-radius: 20px;
+    padding: 16px;
 }
 li a:hover {
     color: #3b6e0a;
